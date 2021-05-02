@@ -10,36 +10,31 @@
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
-- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat&logo=PHP)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress)
 
-- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
 
-- ☁️ &nbsp;
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku)
-  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-FFFFFF?style=flat&logo=digitalocean)
+  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)
 
-- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
-- 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -72,6 +67,4 @@
 <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
 </p>
 
-<p align="center">
 ![Profile views](https://gpvc.arturio.dev/ShubhamSarda)
-</p>
