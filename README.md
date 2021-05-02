@@ -13,7 +13,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
@@ -25,7 +24,6 @@
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
-
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
   ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)
 
@@ -34,10 +32,9 @@
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3> ⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="center">
 <a href="https://github.com/ShubhamSarda">
@@ -46,10 +43,10 @@
 </a>
 </p>
 
-### Spotify Playing 🎧
+<h3> Spotify Playing 🎧</h3>
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
-### Blogs posts
+<h3> Blogs posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
@@ -61,10 +58,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.shubhamsarda.com/"><img alt="Website" src="https://img.shields.io/badge/website-shubhamsarda.com-brightgreen"></a>
+<a href="https://www.shubhamsarda.com/"><img alt="Website" src="https://img.shields.io/badge/website-shubhamsarda.com-green"></a>
 <a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
 <a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
 <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
-</p>
 
 ![Profile views](https://gpvc.arturio.dev/ShubhamSarda)
+</p>
