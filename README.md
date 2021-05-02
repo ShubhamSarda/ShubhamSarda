@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Backend Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor, try exploring my courses for Python Programming, Django Framework and Data Structures and Algorithms.
+- 💼 &nbsp; Best Selling Instructor (Explore my courses on Python Programming, Django Framework and Data Structures Algorithms).
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
@@ -16,18 +16,15 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress)
-
+  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)
-
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
