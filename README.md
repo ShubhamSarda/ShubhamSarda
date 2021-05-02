@@ -1,6 +1,6 @@
-<h2>Hey there, Shubham this side!</h2>
+## Hey there, Shubham this side!
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Backend Developer working remotely in India.
 - 💼 &nbsp; Best Selling Instructor, try exploring my courses for Python Programming, Django Framework and Data Structures and Algorithms.
@@ -9,7 +9,7 @@
 
 ---
 
-<h3> 🛠 &nbsp;Languages and Tools</h3>
+### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -37,7 +37,7 @@
 
 ---
 
-<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ShubhamSarda">
@@ -48,12 +48,12 @@
 
 ---
 
-<h3> Spotify Playing 🎧</h3>
-![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 ---
 
-<h3> Blogs posts</h3>
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
@@ -64,7 +64,7 @@
 
 ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
 <a href="https://www.shubhamsarda.com/"><img alt="Website" src="https://img.shields.io/badge/website-shubhamsarda.com-green"></a>
