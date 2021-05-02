@@ -7,6 +7,7 @@
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
+---
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
@@ -34,6 +35,8 @@
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
+---
+
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="center">
@@ -43,8 +46,12 @@
 </a>
 </p>
 
+---
+
 <h3> Spotify Playing 🎧</h3>
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
 
 <h3> Blogs posts</h3>
 
@@ -55,6 +62,8 @@
 - [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -62,6 +71,4 @@
 <a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
 <a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
 <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
-
-![Profile views](https://gpvc.arturio.dev/ShubhamSarda)
 </p>
