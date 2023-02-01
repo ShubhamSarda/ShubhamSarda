@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Backend Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Python Programming, Django Framework and Data Structures Algorithms).
+- 🤔 &nbsp; Fullstack Developer working remotely in India.
+- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
@@ -13,7 +13,6 @@
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -21,7 +20,8 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-  ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)  
+  ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
