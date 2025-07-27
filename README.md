@@ -65,9 +65,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
-- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship/)
+- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship)
 - [Django Vs Flask – Which One Should You Learn In 2021?](https://blog.unwiredlearning.com/django-vs-flask)
-- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
+- [Git Basics For Beginners](https://blog.unwiredlearning.com/git-github-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
