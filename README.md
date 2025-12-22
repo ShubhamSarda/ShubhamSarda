@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
+- 🤔 &nbsp; Fullstack Developer / Educator.
+- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS, Git), Backend (Python, Django, DRF, Git) and Data Structures Algorithms).
+- 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
 ---
@@ -66,8 +66,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
 - [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship)
-- [Django Vs Flask – Which One Should You Learn In 2021?](https://blog.unwiredlearning.com/django-vs-flask)
 - [Git Basics For Beginners](https://blog.unwiredlearning.com/git-github-notes)
+- [Python Programming For Beginners](https://blog.unwiredlearning.com/python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
